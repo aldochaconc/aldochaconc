@@ -1,4 +1,3 @@
-# aldo chacon contreras
 software-developer, fullstack/back
 
 #### about:
