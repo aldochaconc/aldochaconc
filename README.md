@@ -10,5 +10,5 @@ currently `learning` typescript\
 #### contact-info
 - **email**: `aldochaconc@gmail.com`
 - **phone**: `+569 3530 5140`
-- **location**: `Santiago, RM, Chile`
-I'm looking for relocate :)
+- **location**: `Santiago, RM, Chile`\
+  looking for relocate :)
